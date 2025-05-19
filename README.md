@@ -2,6 +2,8 @@
 
 ## Financial Data Analyst & Business Intelligence
 
+![AI Banner](https://github.com/Prima-7272/Prima-7272/blob/main/ai-banner.jpg?raw=true)
+
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
 
