@@ -2,8 +2,6 @@
 
 ## Financial Data Analyst & Business Intelligence
 
-![logo](https://github.com/Azmary413/Azmary413/blob/main/Artificial.webp)
-
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
 
