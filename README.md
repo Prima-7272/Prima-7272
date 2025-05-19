@@ -5,23 +5,7 @@
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
 
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-</picture></a> &nbsp;
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/oracle-colored.svg" alt="Oracle" />
-</picture></a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
-</picture></a> &nbsp;
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
-</picture></a> &nbsp;
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/illustrator-colored.svg" alt="Illustrator" />
-</picture></a> &nbsp;
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
-</picture></a> &nbsp;
+
 
 ### Social
 
