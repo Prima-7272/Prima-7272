@@ -1,40 +1,72 @@
-Hi, This is Prima
-###
+# Hello 👋 I am Prima 🌟
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## Financial Data Analyst & Business Intelligence
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahana-irin-prima-84aa71a5/) 
+
+### Skills
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+</picture></a> &nbsp;
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/rlang-colored.svg" alt="rlang" />
+</picture></a> &nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
+</picture></a> &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
+</picture></a> &nbsp;
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/oracle-colored.svg" alt="Oracle" />
+</picture></a> &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
+</picture></a> &nbsp;
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/linux-colored.svg" alt="Linux" />
+</picture></a> &nbsp;
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
+</picture></a> &nbsp;
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/illustrator-colored.svg" alt="Illustrator" />
+</picture></a> &nbsp;
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" />
+</picture></a> &nbsp;
+
+### Social
+
+<a href="https://www.github.com/Prima-7272" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.x.com/Prima-7272" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sahana-irin-prima-84aa71a5/" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
 [![Kaggle](https://www.kaggle.com/sahanairin).
+
+### Badges
+#### My GitHub Stats
+
+<a
+href="http://www.github.com/Prima-7272"><img src="https://github-readme-stats.vercel.app/api?username=Prima-7272&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prima-7272's GitHub stats" /></a> <br/>
+<br/>
+<a href="http://www.github.com/Prima-7272"><img
+src="https://streak-stats.demolab.com/?user=Prima-7272&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prima-7272&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prima-7272&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prima-7272&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prima-7272&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Prima-7272&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
