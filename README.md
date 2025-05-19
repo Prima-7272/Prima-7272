@@ -5,19 +5,6 @@
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
 
-
-### Skills
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-</picture></a> &nbsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/rlang-colored.svg" alt="rlang" />
-</picture></a> &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
-</picture></a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
 </picture></a> &nbsp;
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><picture>
@@ -25,9 +12,6 @@ Financial data analysis enthusiast with a keen interest in turning complex datas
 </picture></a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/git-colored.svg" alt="Git" />
-</picture></a> &nbsp;
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/linux-colored.svg" alt="Linux" />
 </picture></a> &nbsp;
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" />
