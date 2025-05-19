@@ -3,7 +3,7 @@
 ## Financial Data Analyst & Business Intelligence
 
 <p align="center">
-  <img src="https://github.com/Prima-7272/Prima-7272/blob/main/prima-7272.jpg?raw=true" alt="Prima Logo" width="100%" />
+  <img src="https://github.com/Prima-7272/Prima-7272/blob/main/prima-7272.jpg?raw=true" alt="00af28eb-3115-4538-8d8a-e594e3e96149.jpg" width="100%" />
 </p>
 
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
