@@ -1,6 +1,6 @@
 # Hello 👋 I am Prima 🌟
 
-## Financial Data Analyst & Business Intelligence
+## Full Stack Engineer & FinTech Nerd
 
 Financial data analysis enthusiast with a keen interest in turning complex datasets into actionable intelligence.
 
