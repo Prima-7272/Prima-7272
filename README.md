@@ -4,7 +4,7 @@
 
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Sahana Irin Prima -Business Web Developer & Fintech nerd 👩‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Love+to+explore+open+source+technologies❤️;Love+to+code+in+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7651F7E9&background=9F9F9F13&center=true&width=435&lines=Aiming+to+Full+Stack+Developer.;Love+to+explore+new+technologies!)](https://git.io/typing-svg)
 
 
 - 🎓 MSc in Finance & Business Data Science
