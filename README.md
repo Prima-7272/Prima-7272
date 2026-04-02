@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Love+to+explore+open+source+technologies❤️;Love+to+code+in+Java)](https://git.io/typing-svg)
 
- <img src="https://komarev.com/ghpvc/?username=anjupriya-v&label=Profile%20views&color=0e75b6&style=flat" alt="Anju Priya V" />
-
 
 - 🎓 MSc in Finance & Business Data Science
 - 💻 I'm interested in Coding and web development.
